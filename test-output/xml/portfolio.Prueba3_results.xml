@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="AutomationPractice Suite"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="3,484">
+    <properties></properties>
+
+
+
+            <testcase
+                name="searchWord"
+                time="1,250"
+                classname="portfolio.Prueba3">
+            </testcase>
+            <testcase
+                name="goToContact"
+                time="2,234"
+                classname="portfolio.Prueba3">
+            </testcase>
+</testsuite>
